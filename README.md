@@ -1,9 +1,5 @@
 # ¡Hola! Soy Natalia Espinosa Falla 👋
 
-<p align="center">
-  <img src="infografia-natalia.png" alt="Infografía Natalia Espinosa" width="90%">
-</p>
-
 Analista de Datos Junior | Fonoaudióloga en formación
 
 A apasionada por la integración entre el análisis de datos, la tecnología y el sector salud. Me especializo en el procesamiento, limpieza y estructuración de datos complejos, modelado de bases de datos relacionales y diseño de dashboards interactivos.
