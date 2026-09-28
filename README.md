@@ -1,6 +1,6 @@
 # ¡Hola! Soy Natalia Espinosa Falla 👋
 
-![Infografía Natalia](https://github.com/user-attachments/assets/...)
+![Infografía Natalia Espinosa](infografia-natalia.png)
 
 Analista de Datos Junior | Fonoaudióloga en formación
 
