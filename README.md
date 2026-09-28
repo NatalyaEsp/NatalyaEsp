@@ -1,6 +1,8 @@
 # ¡Hola! Soy Natalia Espinosa Falla 👋
 
-![Infografía Natalia Espinosa](infografia-natalia.png)
+<p align="center">
+  <img src="infografia-natalia.png" alt="Infografía Natalia Espinosa" width="90%">
+</p>
 
 Analista de Datos Junior | Fonoaudióloga en formación
 
