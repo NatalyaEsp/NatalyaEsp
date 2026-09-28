@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Natalia Espinosa Falla 👋
 
-<!--
-**NatalyaEsp/NatalyaEsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Analista de Datos Junior | Fonoaudióloga en formación
 
-Here are some ideas to get you started:
+A apasionada por la integración entre el análisis de datos, la tecnología y el sector salud. Me especializo en el procesamiento, limpieza y estructuración de datos complejos, modelado de bases de datos relacionales y diseño de dashboards interactivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+- **Análisis de Datos:** Python (Pandas, NumPy), SQL, MySQL, Power BI, Excel Avanzado, Power Query, DAX.
+- **Desarrollo Web & Herramientas:** HTML5, CSS3, JavaScript, Git, GitHub, Visual Studio Code.
+- **Otras Habilidades:** Prompt Engineering, Optimización con IA, Edición Audiovisual (CapCut).
+
+---
+
+### 📚 Formación & Trayectoria
+
+- 🎓 **Bootcamp en Análisis de Datos** – BeTek
+- 🎓 **Pregrado en Fonoaudiología** – Universidad Manuela Beltrán
+- 💻 **Programación Web e Inteligencia Artificial** – Chicas en Tecnología
+- 🤖 **Semillero de Robótica** (4 años de trayectoria)
+
+---
+
+### 🌐 Conéctate conmigo
+
+- 💼 **LinkedIn:** [linkedin.com/in/natalia-espinosa-falla-904a0a334](https://www.linkedin.com/in/natalia-espinosa-falla-904a0a334)
+- ✉️ **Correo:** nataliaespinosa238@gmail.com
